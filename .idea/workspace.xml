@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="310d0097-25bd-49a2-b5c4-6dd7dc0a324d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="310d0097-25bd-49a2-b5c4-6dd7dc0a324d" name="Changes" comment="создала ветку">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,12 +65,24 @@
       <updated>1687806811050</updated>
       <workItem from="1687806812144" duration="1455000" />
       <workItem from="1687808321476" duration="4690000" />
-      <workItem from="1687893310507" duration="1717000" />
+      <workItem from="1687893310507" duration="2063000" />
     </task>
+    <task id="LOCAL-00001" summary="создала ветку">
+      <created>1687895396850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687895396850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="создала ветку" />
+    <option name="LAST_COMMIT_MESSAGE" value="создала ветку" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
