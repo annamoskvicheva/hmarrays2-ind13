@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="310d0097-25bd-49a2-b5c4-6dd7dc0a324d" name="Changes" comment="проверь, пожалуйста">
+    <list default="true" id="310d0097-25bd-49a2-b5c4-6dd7dc0a324d" name="Changes" comment="проверь домашку">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -16,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="arrays2" />
+        <entry key="$PROJECT_DIR$" value="arrays3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,7 +67,8 @@
       <workItem from="1687806812144" duration="1455000" />
       <workItem from="1687808321476" duration="4690000" />
       <workItem from="1687893310507" duration="2685000" />
-      <workItem from="1688028130756" duration="622000" />
+      <workItem from="1688028130756" duration="1314000" />
+      <workItem from="1688060105353" duration="2733000" />
     </task>
     <task id="LOCAL-00001" summary="создала ветку">
       <created>1687895396850</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687895445350</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="проверь домашку">
+      <created>1688028846422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688028846422</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,19 +99,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="создала ветку" />
-    <MESSAGE value="проверь домашку" />
     <MESSAGE value="проверь, пожалуйста" />
-    <option name="LAST_COMMIT_MESSAGE" value="проверь, пожалуйста" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="пронумеровала задачи" />
+    <MESSAGE value="проверь домашку" />
+    <option name="LAST_COMMIT_MESSAGE" value="проверь домашку" />
   </component>
 </project>

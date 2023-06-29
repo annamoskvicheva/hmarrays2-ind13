@@ -50,11 +50,15 @@ public class Main {
         System.out.println("Задача 3");
 
         int[] array = generateRandomArray();
-        for (int i = array.length -1; i > 0; i--){
+        int sum = 0;
+        for (int j:array){
+            sum+=j;
+            sum = sum / 30;
         }
 
-        System.out.println(array[0] + " рублей, составляет средняя сумма трат.");
-    }
+            System.out.println( sum + " рублей, составляет средняя сумма трат.");
+        }
+
     public static void task4(){
         System.out.println("Задача 4");
         char[] reverseFullName = { 'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
